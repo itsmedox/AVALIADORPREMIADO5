@@ -9,7 +9,7 @@
   "applovin_interstitial_id": "xxxxxx",
   "applovin_native_id": "xxxxxx",
   "applovin_rewarded_id": "xxxxxx",
-  "is_max": false,
+  "is_max": true,
   
   "unity_banner_id": "xxxx",
   "unity_interstitial_id": "xxxx",
@@ -40,18 +40,18 @@
   "show_force_rate": false,
   
   
-  "show_slider": false,
+  "show_slider": true,
 
-  "show_activities": false,
+  "show_activities": true,
   
-  "slider_in_details": false,
+  "slider_in_details": true,
   
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
   
   
-  "show_rate_us_in_list": false,
+  "show_rate_us_in_list": true,
   
   
   "show_cpa": false,
@@ -59,7 +59,7 @@
   "cpa_url": "https://www.ramseysolutions.com/taxes/what-does-a-cpa-do",
   "cpa_button_text": "Get It Now!",
   
-  "show_rating_exit_popup": false,
+  "show_rating_exit_popup": true,
   
   "onesignal_id": "xxxxxxx",
   
@@ -68,7 +68,7 @@
   "suspended_message": "Update this app because this version has some issues.",
   "suspended_URL": "xxxx",
   
-  "show_app_1": false,
+  "show_app_1": true,
   "app_icon_1": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
   "app_title_1": "Parchisi STAR Online",
   "app_desc_1": "Parchisi STAR is an online multiplayer game.",
