@@ -35,16 +35,16 @@
   "Rewarded": "xxxxxxxx",
   
   
-  "main_inter": true,
+  "main_inter": false,
   
   "show_force_rate": false,
   
   
   "show_slider": false,
 
-  "show_activities": true,
+  "show_activities": false,
   
-  "slider_in_details": true,
+  "slider_in_details": false,
   
   
   "clicks_to_show_inter": 2,
