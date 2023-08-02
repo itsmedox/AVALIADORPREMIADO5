@@ -95,10 +95,10 @@
 
   "guides": [
 	{
-	 "image": "https://images.ctfassets.net/hrltx12pl8hq/3j5RylRv1ZdswxcBaMi0y7/b84fa97296bd2350db6ea194c0dce7db/Music_Icon.jpg",
+	 "image": "",
 	 "title": "title 1",
-	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+	 "text": "AVALIADOR PREMIADO É GOLPE?",
+	 "text_two": "",
 
 	 "showInSlider": true,
 	 
@@ -107,11 +107,9 @@
 
 	},
 	{
-	 "image": "https://www.eusemfronteiras.com.br/wp-content/uploads/2020/09/shutterstock_1890767737.jpg",
+	 "image": "",
 	 "title": "title 2",
-	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
-
+	 "text_two" :"AVALIADOR PREMIADO"
 	 "showInSlider": false,
 	 
 	 "isLocked": true,
@@ -121,8 +119,8 @@
 	{
 	 "image": "https://www.eusemfronteiras.com.br/wp-content/uploads/2020/09/shutterstock_1890767731-810x456.jpg",
 	 "title": "title 3",
-	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+	 "text": "AVALIADOR PREMIADO",
+	 "text_two": "AVALIADOR PREMIADO",
 
 	 "showInSlider": false,
 	 
@@ -131,10 +129,10 @@
 
 	},
 	{
-	"image": "https://www.eusemfronteiras.com.br/wp-content/uploads/2020/09/shutterstock_1890767734-810x456.jpg",
+	"image": "",
 	 "title": "title 4",
-	 "text": ".",
-	 "text_two": ".",
+	 "text": "welcome AVALIADOR PREMIADO",
+	 "text_two": "welcome AVALIADOR PREMIADO",
 
 	 "showInSlider": false,
 	 
@@ -143,10 +141,10 @@
 
 	},
 	{
-	"image": "https://www.eusemfronteiras.com.br/wp-content/uploads/2020/09/shutterstock_1890767458-810x456.jpg",
+	"image": "",
 	 "title": "title 5",
-	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+	 "text": "welcome AVALIADOR PREMIADO",
+	 "text_two": "welcome AVALIADOR PREMIADO",
 
 	 "showInSlider": false,
 	 
@@ -157,8 +155,8 @@
 	{
 	"image": "https://www.eusemfronteiras.com.br/wp-content/uploads/2020/09/shutterstock_1890767446.jpg",
 	 "title": "title 6",
-	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+	 "text": "welcome AVALIADOR PREMIADO",
+	 "text_two": "welcome AVALIADOR PREMIADO",
 
 	 "showInSlider": false,
 	 
