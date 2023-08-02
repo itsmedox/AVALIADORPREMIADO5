@@ -54,7 +54,7 @@
   "show_rate_us_in_list": true,
   
   
-  "show_cpa": false,
+  "show_cpa": true,
   "cpa_image": "https://cdn.ramseysolutions.net/media/blog/taxes/business-taxes/what-does-a-cpa-do.jpg",
   "cpa_url": "https://www.ramseysolutions.com/taxes/what-does-a-cpa-do",
   "cpa_button_text": "Get It Now!",
